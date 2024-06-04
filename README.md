@@ -1,14 +1,3 @@
-# Summary
-
-Collection of smart contracts used within the Beam app.
-
-## Contracts
-
-- Beam names contract ([Beamnames.sol](contracts/Beamnames.sol))
-- Simple account factory contract ([SimpleAccountFactory.sol](contracts/SimpleAccountFactory.sol))
-  - Note: SimpleAccountFactory V0.6.0 from ETH Infinitism ([repo](https://github.com/eth-infinitism/account-abstraction/blob/abff2aca61a8f0934e533d0d352978055fddbd96/contracts/samples/SimpleAccountFactory.sol))  
-
-
 # Beam App Contracts
 
 Welcome to the Beam App Contracts repository! This repository contains two smart contracts developed for the Beam app, a decentralized application (DApp) aiming to provide users with secure and versatile features.
